@@ -16,7 +16,7 @@ Une fois les prérequis installés et les release téléchargés vous pouvez:\
 -Lancer le projet sous Unity\
 -Lancer le .exe de la release
 
-Version 1.0
+### Version 1.0
 
 ### Auteurs 
 HOSPICE Lucas , DELL'OSO Alessandro
